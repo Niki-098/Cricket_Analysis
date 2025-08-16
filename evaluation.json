@@ -1,0 +1,47 @@
+{
+    "session_summary": {
+        "total_frames": 136,
+        "pose_detection_rate": "100.0%",
+        "metrics_collected": 0
+    },
+    "footwork": {
+        "score": 5,
+        "detail": "Insufficient data for analysis",
+        "feedback": [
+            "Keep front foot pointing straight down the pitch",
+            "Focus on foot alignment - it affects your entire stance"
+        ]
+    },
+    "head_position": {
+        "score": 5,
+        "detail": "Insufficient data for analysis",
+        "feedback": [
+            "Keep head steady and over front knee throughout the shot",
+            "Work on keeping head still and centered over front leg"
+        ]
+    },
+    "swing_control": {
+        "score": 5,
+        "detail": "Insufficient data for analysis",
+        "feedback": [
+            "Maintain high front elbow for better bat control",
+            "Lift front elbow higher - it's key for shot control"
+        ]
+    },
+    "balance": {
+        "score": 5,
+        "detail": "Insufficient data for analysis",
+        "feedback": [
+            "Keep spine upright and avoid excessive forward lean",
+            "Reduce forward lean to improve balance and shot options"
+        ]
+    },
+    "follow_through": {
+        "score": 5,
+        "detail": "No swing data",
+        "feedback": [
+            "Complete the shot with full arm extension",
+            "Extend arms more in follow-through for better shot completion"
+        ]
+    }
+}
